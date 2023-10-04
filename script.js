@@ -12,6 +12,3 @@ function rollDie() {
     const changingText = document.getElementById("changingText");
     changingText.textContent = Die1 + " " + Die2 + " " + Die3;
 }
-
-
-
